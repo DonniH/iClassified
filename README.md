@@ -1,6 +1,6 @@
 # Installing iClassified
 
-In order to read and write to cards, you will, at the minimum, need a reader/writer. The simplest way to get one is to get a reader/writer from the HID OMNIKEY line. The preferred and tested reader is the HID OMNIKEY 5321 v2 Cli its fairly cheap at around $50. The model number does matter, as the [b]HID OMINKEY 5321 Sam CL will not work with this program[/b]. Other have used an HID OMNIKEY 6321 CLi though I have never tested it. iClassifed will work on Windows XP or Windows 10 (32 bit only!!). I used Windows XP on VMware. 
+In order to read and write to cards, you will, at the minimum, need a reader/writer. The simplest way to get one is to get a reader/writer from the HID OMNIKEY line. The preferred and tested reader is the HID OMNIKEY 5321 v2 Cli its fairly cheap at around $50. The model number does matter, as the [b]HID OMINKEY 5321 Sam CL will not work with this program[/b]. Other have used an HID OMNIKEY 6321 CLi v2 to run this. iClassifed will work on Windows XP or Windows 10 (32 bit only!!). Some have used Windows XP on VMware. 
 
 To build the software you want to start off by downloading the [MinGW installer assistant](https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download). Install it and select:
 
