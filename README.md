@@ -25,7 +25,7 @@ Now that the files have been copied go back into the `iclassified` directory (ty
 
 If everything runs well the files `iclass.exe` and `iclassified.o` should appear in your "home" folder.
 
-At this point you should plug in your OMNIKEY reader and install the follwing driver [the drivers](http://www.proxmark.org/files/Various%20Hardware/OMNIKEY%205x21/OMNIKESY5x21_V1_2_0_14.exe).
+At this point you should plug in your OMNIKEY reader and install the following [the drivers](http://www.proxmark.org/files/Various%20Hardware/OMNIKEY%205x21/OMNIKESY5x21_V1_2_0_14.exe).
 
 [b]Only the drivers from 2009 and below will work with iClassiified![/b]
 
