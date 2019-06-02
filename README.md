@@ -1,6 +1,6 @@
-# Into
+# Intro
 
-I did not create the software, nor am I developer, the software has always been publicly available at this github repository: https://github.com/ColdHeat/iclass. I am simply creating my own fork with more details and clarifcation since the orginal has been neglected for a while. Contributions are welcome. As always these types of programs are meant only to be used for education and/or security penetration purposes only. I highly reccommend all vendors to upgrade to iClass SE (and use the SE card) since legacy card can be so easily be cloned as seen below.
+I did not create the software, nor am I developer, the software has always been publicly available at this github repository: https://github.com/ColdHeat/iclass. I am simply creating my own fork with more details and clarification since the original has been neglected for a while. Contributions are welcome. As always these types of programs are meant only to be used for education and/or security penetration purposes only. I highly recommend all vendors to upgrade to iClass SE (and use the SE card) since legacy card can be so easily be cloned as seen below
 
 # Installing iClassified
 
@@ -31,7 +31,7 @@ If everything runs well the files `iclass.exe` and `iclassified.o` should appear
 
 At this point you should plug in your OMNIKEY reader and install the following [drivers](http://www.proxmark.org/files/Various%20Hardware/OMNIKEY%205x21/OMNIKESY5x21_V1_2_0_14.exe).
 
-[b]Only the drivers from 2009 and below will work with iClassiified![/b]
+**Only the drivers from 2009 and below will work with iClassiified!**
 
 # Installing the driver on Windows (work the same with Windows XP)
 
@@ -111,7 +111,7 @@ Use the "iclass write" command to write each of the four blocks. (e.g. "iclass w
 # Troubleshooting
 
 ### Can't find Omnikey Reader
-Either you are using a newere driver or the wrong reader. Only the 5321 or 6321 v2 Cli works.
+Either you are using a newer driver or the wrong reader. Only the 5321 or 6321 v2 Cli works.
 
 ### Could not connect retrieve smart card reader list
 Your reader is not plugged in correctly 
