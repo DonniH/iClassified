@@ -93,13 +93,13 @@ If all goes well you should be able to execute `iclass.exe read` to read a card 
 
 After you compile the program using the "make" command you should have the iclass.exe program. This will now allow you to read and write the required data blocks (6,7,8,9) that you need to make a clone of the card. In order for the card to be cloned succesfully it is crucial that those 4 blocks are cloned.
 
-### To Read All the blocks in a card:
+### To Read all the blocks in a card:
 Use the "iclass.exe read" command to read the entire set of data blocks.
 
 ### To Read a blocks in a card:
 Use the "iclass read" command to read a data block (e.g. "iclass read 6")
 
-### To Write date to a block
+### To Write to a block
 
 Use the "iclass write" command to write each of the four blocks. (e.g. "iclass write 6  030303030003E017"  to write block 6)
 
