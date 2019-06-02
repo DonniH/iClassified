@@ -27,7 +27,7 @@ Next, open the `msys.bat` file (located in the MinGW folder) to get a small shel
 ![copy](https://i.postimg.cc/MH03zBYB/On-Paste-20190524-132429.png)
 Now that the files have been copied go back into the `iclassified` directory (type in "cd iclassified" or whatever its named; might be named your username; just go into wherever you copied the new files from Github) and type in `make`.
 
-If everything runs well the files `iclass.exe` and `iclassified.o` should appear in your "home" folder.
+If everything runs well the files `iclass.exe` and `iclassified.o` should appear in your "home" folder. If you get the error "The application failed to initialize properly (0xc0150002)" then you may need to install [Microsoft Visual C++ 2008 Redistributable Package (x86)](https://www.microsoft.com/en-au/download/details.aspx?id=29).
 
 At this point you should plug in your OMNIKEY reader and install the following [drivers](http://www.proxmark.org/files/Various%20Hardware/OMNIKEY%205x21/OMNIKESY5x21_V1_2_0_14.exe).
 
