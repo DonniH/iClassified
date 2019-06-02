@@ -4,7 +4,7 @@ I did not create the software, nor am I developer, the software has always been 
 
 # Installing iClassified
 
-In order to read and write to cards, you will, at the minimum, need a reader/writer. The simplest way to get one is to get a reader/writer from the HID OMNIKEY line. The preferred and tested reader is the HID OMNIKEY 5321 v2 Cli its fairly cheap at around $50. The model number does matter, as the [b]HID OMINKEY 5321 Sam CL will not work with this program[/b]. Other have used an HID OMNIKEY 6321 CLi though I have never tested it. iClassifed will work on Windows XP or Windows 10 (32 bit only!!). I used Windows XP on VMware. 
+In order to read and write to cards, you will, at the minimum, need a reader/writer. The simplest way to get one is to get a reader/writer from the HID OMNIKEY line. The preferred and tested reader is the HID OMNIKEY 5321 v2 Cli its fairly cheap at around $50. The model number does matter, as the **HID OMINKEY 5321 Sam CL will not work with this program**. Other have used an HID OMNIKEY 6321 CLi though I have never tested it. iClassifed will work on Windows XP or Windows 10 (32 bit only!!). I used Windows XP on VMware. 
 
 To build the software you want to start off by downloading the [MinGW installer assistant](https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download). Install it and select:
 
@@ -29,7 +29,7 @@ Now that the files have been copied go back into the `iclassified` directory (ty
 
 If everything runs well the files `iclass.exe` and `iclassified.o` should appear in your "home" folder.
 
-At this point you should plug in your OMNIKEY reader and install the follwing driver [the drivers](http://www.proxmark.org/files/Various%20Hardware/OMNIKEY%205x21/OMNIKESY5x21_V1_2_0_14.exe).
+At this point you should plug in your OMNIKEY reader and install the following [drivers](http://www.proxmark.org/files/Various%20Hardware/OMNIKEY%205x21/OMNIKESY5x21_V1_2_0_14.exe).
 
 [b]Only the drivers from 2009 and below will work with iClassiified![/b]
 
@@ -117,7 +117,7 @@ Either you are using a newere driver or the wrong reader. Only the 5321 or 6321 
 Your reader is not plugged in correctly 
 
 ### Authentication Failed
-Your using a high security iClass card, iClassified can't read those card. Secured security :+1:
+Your using a high security iClass card, iClassified can't read those card. Security secured:+1:
 
 
   
