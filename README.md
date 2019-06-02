@@ -113,7 +113,7 @@ Either you are using a newere driver or the wrong reader. Only the 5321 or 6321 
 Your reader is not plugged in correctly 
 
 ### Authentication Failed
-Your using a high security iClass card, iClassified can't read those card. Secured security :+1:
+Your using a high security iClass card, iClassified can't read those card. Security secured :+1:
 
 
   
