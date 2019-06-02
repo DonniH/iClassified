@@ -27,7 +27,7 @@ If everything runs well the files `iclass.exe` and `iclassified.o` should appear
 
 At this point you should plug in your OMNIKEY reader and install the following [drivers](http://www.proxmark.org/files/Various%20Hardware/OMNIKEY%205x21/OMNIKESY5x21_V1_2_0_14.exe).
 
-[b]Only the drivers from 2009 and below will work with iClassiified![/b]
+**Only the drivers from 2009 and below will work with iClassiified!**
 
 # Installing the driver on Windows (work the same with Windows XP)
 
@@ -107,7 +107,7 @@ Use the "iclass write" command to write each of the four blocks. (e.g. "iclass w
 # Troubleshooting
 
 ### Can't find Omnikey Reader
-Either you are using a newere driver or the wrong reader. Only the 5321 or 6321 v2 Cli works.
+Either you are using a newer driver or the wrong reader. Only the 5321 or 6321 v2 Cli works.
 
 ### Could not connect retrieve smart card reader list
 Your reader is not plugged in correctly 
